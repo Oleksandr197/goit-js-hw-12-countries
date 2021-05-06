@@ -1,0 +1,60 @@
+body {
+  padding: 50px 30px;
+  text-align: center;  
+  background-color: #1c90dd;
+  
+  color: #f9f9f9;
+  
+  
+}
+
+.input-search {
+  margin-bottom: 35px;
+  padding-left: 15px;
+  padding-right: 10px;
+  height: 40px;
+  width: 300px;
+  font-size: 20px;
+  border-radius: 10px;
+  border: 2px solid blue;
+   box-shadow: 1px 1px 2px black;
+  
+}
+
+
+.input-search:hover,
+.input-search:focus{
+border-color: crimson;
+}
+
+.js-card-container {
+    text-align: left;
+   font-size: 20px;
+    
+}
+
+.countries-list {
+  width: 50%;
+  margin:  auto;
+}
+
+/* .countries-list p {
+  background-color: rgb(106, 231, 22);
+  
+} */
+
+.country-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+}
+
+ .country-info {
+  margin-right: 20px;
+} 
+
+.country-title {
+  text-align: center;
+   margin-bottom: 25px;
+} 
